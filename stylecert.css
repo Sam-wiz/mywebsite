@@ -1,0 +1,294 @@
+body
+{
+  background-color: #ECF2F5;
+}
+a:hover
+{
+  color: #13E4CB;
+}
+a{
+  display: inline-block;
+  text-decoration: none;
+  color: #8A094F;
+}
+h1
+{
+  position: absolute;
+  top: 0;
+  left: 450px;
+  font-style: italic;
+  text-shadow: 1px 1px 1px yellow;
+  color: #0E581F;
+  font-family: "Sofia", sans-serif;
+  font-size: 60px;
+}
+.z
+{
+border-style: none;
+border-top-style: dotted;
+position: absolute;
+top: 120px;
+left: 600px;
+border-color: grey;
+border-width: 10px;
+width: 10%;
+}
+.a
+{
+  position: absolute;
+  top: 130px;
+  font-family: "Audiowide", sans-serif;
+  left: 100px;
+  font-size: 30px;
+  color: #3D0526;
+}
+.p1
+{
+  position: absolute;
+  top: 220px;
+  font-size: 30px;
+  left: 10px;
+  right: 720px;
+}
+.i1
+{
+  width: 20%;
+  position: absolute;
+  top: 240px;
+  right: 15px;
+  left: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.p2
+{
+  position: absolute;
+  top: 650px;
+  font-size: 30px;
+  left: 600px;
+  right: 10px;
+}
+.i2
+{
+  width: 20%;
+  position: absolute;
+  top: 650px;
+  left: 100px;
+  right: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.p3
+{
+  position: absolute;
+  top: 1050px;
+  font-size: 30px;
+  left: 10px;
+  right: 720px;
+}
+.i3
+{
+  width: 20%;
+  position: absolute;
+  top: 1050px;
+  right: 15px;
+  left: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.y
+{
+border-style: none;
+border-top-style: dotted;
+position: absolute;
+top: 1500px;
+left: 600px;
+border-color: grey;
+border-width: 10px;
+width: 10%;
+}
+.b
+{
+  position: absolute;
+  top: 1550px;
+  font-family: "Audiowide", sans-serif;
+  left: 100px;
+  font-size: 30px;
+  color: #3D0526;
+}
+.p4
+{
+  position: absolute;
+  top: 1650px;
+  font-size: 30px;
+  left: 10px;
+  right: 720px;
+}
+.i4
+{
+  width: 20%;
+  position: absolute;
+  top: 1650px;
+  right: 15px;
+  left: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.p5
+{
+  position: absolute;
+  top: 1950px;
+  font-size: 30px;
+  left: 600px;
+  right: 10px;
+}
+.i5
+{
+  width: 20%;
+  position: absolute;
+  top: 1950px;
+  left: 100px;
+  right: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.p6
+{
+  position: absolute;
+  top: 2150px;
+  font-size: 30px;
+  left: 10px;
+  right: 720px;
+}
+.i6
+{
+  width: 20%;
+  position: absolute;
+  top: 2150px;
+  right: 15px;
+  left: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.x
+{
+border-style: none;
+border-top-style: dotted;
+position: absolute;
+top: 2450px;
+left: 600px;
+border-color: grey;
+border-width: 10px;
+width: 10%;
+}
+.c
+{
+  position: absolute;
+  top: 2500px;
+  font-family: "Audiowide", sans-serif;
+  left: 100px;
+  font-size: 30px;
+  color: #3D0526;
+}
+.p7
+{
+  position: absolute;
+  top: 2550px;
+  font-size: 30px;
+  left: 10px;
+  right: 720px;
+}
+.i7
+{
+  width: 20%;
+  position: absolute;
+  top: 2550px;
+  right: 15px;
+  left: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.p8
+{
+  position: absolute;
+  top: 2800px;
+  font-size: 30px;
+  left: 10px;
+}
+.p9
+{
+  position: absolute;
+  top: 2925px;
+  font-size: 30px;
+  left: 10px;
+}
+.p10
+{
+  position: absolute;
+  top: 3000px;
+  font-size: 30px;
+  left: 10px;
+}
+.w
+{
+  border-style: none;
+  border-top-style: dotted;
+  position: absolute;
+  top: 3100px;
+  left: 600px;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+.d
+{
+  position: absolute;
+  top: 3150px;
+  font-family: "Audiowide", sans-serif;
+  left: 100px;
+  font-size: 30px;
+  color: #3D0526;
+}
+.p11
+{
+  position: absolute;
+  top: 3200px;
+  font-size: 30px;
+  left: 10px;
+}
+.p12
+{
+  position: absolute;
+  top: 3350px;
+  font-size: 30px;
+  left: 600px;
+  right: 10px;
+}
+.i8
+{
+  width: 20%;
+  position: absolute;
+  top: 3350px;
+  left: 100px;
+  right: 700px;
+  margin: 5px;
+  border: 1px solid black;
+}
+.p13
+{
+  position: absolute;
+  top: 3500px;
+  font-size: 30px;
+  left: 10px;
+}
+.v
+{
+  border-style: none;
+  border-top-style: dotted;
+  position: absolute;
+  top: 3600px;
+  left: 600px;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}

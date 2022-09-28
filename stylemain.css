@@ -1,0 +1,84 @@
+body {
+  background-color: #ECF2F5;
+}
+
+.boy {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: inline-block;
+  width: 100px;
+}
+a:hover
+{
+  color: #13E4CB;
+}
+
+.res {
+  display: inline-block;
+  position: absolute;
+  right: 325px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #8A094F;
+}
+
+.cert {
+  display: inline-block;
+  position: absolute;
+  right: 150px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #8A094F;
+}
+
+.cont {
+  display: inline-block;
+  right: 15px;
+  position: absolute;
+  text-decoration: none;
+  font-size: 25px;
+  color: #8A094F;
+}
+
+h1 {
+  position: absolute;
+  top: 60px;
+  left: 450px;
+  text-shadow: 1px 1px 1px yellow;
+  color: #0E581F;
+  padding: 0;
+  font-style: italic;
+  font-size: 80px;
+  font-family: "Sofia", sans-serif;
+}
+
+p {
+  position: absolute;
+  top: 300px;
+  right: 10px;
+  left: 650px;
+  font-size: 20px;
+  font-family: "Audiowide", sans-serif;
+  color: #3D0526;
+}
+
+.cloud {
+  display: inline;
+  position: absolute;
+  top: 250px;
+  left: 100px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 140px;
+  left: 1100px;
+}
+
+.mount {
+  position: absolute;
+  top: 180px;
+  left: 50px;
+  width: 60%;
+}
